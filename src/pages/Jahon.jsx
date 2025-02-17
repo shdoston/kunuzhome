@@ -1,13 +1,6 @@
 import NavLists from "../components/NavLists";
 
-// function Jahon() {
-//   return (
-//     <div className="container">
-//       <NavLists />
-//     </div>
-//   );
-// }
-// export default Jahon;
+
      
 export default function Jahon() {
   return (

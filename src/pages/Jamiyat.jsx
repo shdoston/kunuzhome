@@ -1,12 +1,5 @@
 import NavLists from "../components/NavLists";
-// function Jamiyat() {
-//   return (
-//     <div className="container">
-//       <NavLists />
-//     </div>
-//   );
-// }
-// export default Jamiyat;
+
 
 export default function Jamiyat() {
   return (
